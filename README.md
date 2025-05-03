@@ -1,6 +1,29 @@
-# Unreal Engine 5 Plugin Investigation
+# Unreal Engine Plugin Project
 
-This repository is currently in the investigation phase for developing a plugin that explores potential integrations between street map functionality and procedural content generation in Unreal Engine 5.
+## Project Goals and Learning Objectives
+
+This project aims to develop a practical Unreal Engine plugin while focusing on:
+
+1. Industry-oriented design philosophy - weighing pros and cons from a practical perspective
+2. Balanced technical scope - covering broad UE features while managing depth
+3. Iterative development approach - top-down design with flexibility to adapt
+4. Comprehensive documentation - tracking design decisions and rationale
+5. Toolchain proficiency - mastering UE development tools and workflows
+
+## Outcomes
+
+- Deepen understanding of Unreal Engine architecture
+- Build experience with real-world game development challenges
+- Familiarize toolchain related to Unreal Engine
+- Create a valuable contribution to the Unreal Engine ecosystem
+
+## Documentation
+
+Detailed documentation can be found in the `Documentation` directory, including:
+- Design decisions and rationale
+- Technical specifications
+- Implementation details
+- Learning resources and references
 
 ## Current Status: Investigation Phase
 
