@@ -16,3 +16,9 @@ This document serves as a collection of valuable resources, links, and reference
 - [Setting Up Unreal Production Pipeline](https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-your-production-pipeline-in-unreal-engine)
 - [Testing and Optimizing Your Content](https://dev.epicgames.com/documentation/en-us/unreal-engine/testing-and-optimizing-your-content)
 - [Runtime API Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime)
+
+## Workflow
+- [Houdini Export from Houdini to PCG in Unreal 1 | Overview](https://www.youtube.com/watch?v=b34KU4Iu74g)
+- [Houdini Export from Houdini to PCG in Unreal 2 | Use CSV Export Method](https://www.youtube.com/watch?v=4LDVt2RBywU)
+- [Houdini Export from Houdini to PCG in Unreal 3 | Use Alembic Method](https://www.youtube.com/watch?v=tmGduvvj03g)
+- [Houdini Export from Houdini to PCG in Unreal 4 | Explore Use Cases](https://www.youtube.com/watch?v=NeAn_JXZSYA)

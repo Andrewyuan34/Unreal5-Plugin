@@ -15,11 +15,10 @@ This project aims to develop a practical Unreal Engine plugin while focusing on:
 - Deepen understanding of Unreal Engine architecture
 - Build experience with real-world game development challenges
 - Familiarize toolchain related to Unreal Engine
-- Create a valuable contribution to the Unreal Engine ecosystem
 
 ## Documentation
 
-Detailed documentation can be found in the `Documentation` directory, including:
+Detailed documentation can be found in the `docs` directory, including:
 - Design decisions and rationale
 - Technical specifications
 - Implementation details
@@ -44,7 +43,7 @@ Unreal5-Plugin/
 │   └── ThirdParty/          
 ├── Resources/                
 ├── Config/                   
-└── Documentation/           
+└── docs/           
     └── RESOURCES.md         
 ```
 
@@ -63,11 +62,4 @@ Current Phase: Initial Investigation
 
 - Unreal Engine 5.0 or later
 - Visual Studio 2019 or later (Windows)
-
-## Getting Started
-
-## License
-
-
-## Contributing
 
