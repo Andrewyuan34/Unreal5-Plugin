@@ -10,13 +10,19 @@ UStreetMapComponent → FStreetMapSceneProxy → Rendering Thread
 Resource Factory → Editor UI → Component Details Panel
 
 ### OSMFile.h Parser Model Class
-#### Input 
 OSM XML File: OpenStreetMap format map data file containing: 
 - Nodes: Geographic points with latitude and longitude coordinates 
 - Ways: Ordered lists of nodes representing roads, paths, or building outlines 
 - Tags: Key-value pairs describing the properties of nodes and ways
 
-#### Final Output(combined with factory class) 
+Basically this class is built to convert format in a readable format for this Plugin
+
+### UStreetMapFactory
+ - This class is an Unreal Engine asset factory that converts OpenStreetMap XML data into UE-compatible "UStreetMap" assets. 
+ - It implements geographic coordinate transformation, road network construction, and building data processing, while optimizing data structures for efficient rendering and navigation. 
+ - The factory integrates with UE's asset import system through the “UFactory” interface, supporting map data import, update, and validation.
+
+ ### Final Output(combined with factory class) 
 UStreetMap Object: A structured data object containing:
 - Roads: Collection of road data 
 - Nodes: Collection of intersection points 
