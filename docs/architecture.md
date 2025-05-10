@@ -22,6 +22,19 @@ Basically this class is built to convert format in a readable format for this Pl
  - It implements geographic coordinate transformation, road network construction, and building data processing, while optimizing data structures for efficient rendering and navigation. 
  - The factory integrates with UE's asset import system through the “UFactory” interface, supporting map data import, update, and validation.
 
+ ### UStreetMapReimportFactory
+ Basically derive the interface class that Unreal provided and write customized logic to override it.
+```cpp
+ virtual bool CanReimport(UObject* Obj, TArray<FString>& OutFilenames) = 0;
+
+ virtual void SetReimportPaths(UObject* Obj, const TArray<FString>& NewReimportPaths) = 0;
+
+ virtual EReimportResult::Type Reimport(UObject* Obj) = 0;
+
+ virtual int32 GetPriority() const = 0;
+```
+https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Editor/UnrealEd/FReimportHandler
+
  ### Final Output(combined with factory class) 
 UStreetMap Object: A structured data object containing:
 - Roads: Collection of road data 
