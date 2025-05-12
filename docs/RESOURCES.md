@@ -2,6 +2,10 @@
 
 This document serves as a collection of valuable resources, links, and references related to the project investigation.
 
+## Related Projects
+- [StreetMap](https://github.com/ue4plugins/StreetMap)
+- [cesium-unreal](https://github.com/CesiumGS/cesium-unreal)
+
 ## Related Documentation
 - [Unreal Engine 5 Documentation](https://docs.unrealengine.com/5.0/en-US/)
 - [UE5 Street Map Plugin Documentation](https://github.com/ue4plugins/StreetMap)
@@ -10,6 +14,7 @@ This document serves as a collection of valuable resources, links, and reference
 - [Gaia Pro 2023](https://www.youtube.com/watch?v=bE-lNkzbdOU&list=PLckEMv5tz0E49F0SjemGR_f0Hvt9nBEic&index=1&t=814s)
 - [Voxel Plugin](https://www.youtube.com/watch?v=WnjIWTlDvf8)
 - [Procedural City Generator](https://www.youtube.com/watch?v=o5qUmFUWxfs)
+- [Cesium For Architects and World Builders](https://www.youtube.com/watch?v=1S1FgiOrdbo&list=PLUEJPqKDLa6LzzGCeX9FapAEEnMy5FtKA&index=2)
 
 
 ## Tools

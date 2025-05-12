@@ -35,6 +35,13 @@ Basically this class is built to convert format in a readable format for this Pl
 ```
 https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Editor/UnrealEd/FReimportHandler
 
+### FStreetMapImportingModule
+The FStreetMapImportingModule serves as an Editor-Runtime Bridge for this plugin. It manages the StreetMap asset type in the content browser, initializes custom UI styles, and sets up property panel customization for the StreetMap component. 
+
+This is standard way for any Unreal plugin to integrate with the engine. It handles module lifecycle (StartupModule/ShutdownModule/PostLoadCallback).
+
+https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/Core/Modules/IModuleInterface
+
  ### Final Output(combined with factory class) 
 UStreetMap Object: A structured data object containing:
 - Roads: Collection of road data 
