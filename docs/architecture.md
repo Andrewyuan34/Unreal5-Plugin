@@ -42,7 +42,7 @@ This is standard way for any Unreal plugin to integrate with the engine. It hand
 
 https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/Core/Modules/IModuleInterface
 
-- [Project Analysis based on Class Diagram on Miro(not complete)](https://miro.com/welcomeonboard/d005U3JKQnlEVmxsVG0wL1BRK3dZeEQxYnlYNzkwREFQVXdvTnJxVXBvU1lXQjZvNDFDMUxlbXhPRUl3QjJ5eUFTWWk4L1kzcE5lRGdpYlIzTzlDRGF5NXJlTm5yeHhxaGVITXI1ZENzU2hUaHJycUZhZFdZVDNkZEEzOXhOaFZzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=)
+- [Project Analysis based on Class Diagram on Miro(updated)](https://miro.com/welcomeonboard/d005U3JKQnlEVmxsVG0wL1BRK3dZeEQxYnlYNzkwREFQVXdvTnJxVXBvU1lXQjZvNDFDMUxlbXhPRUl3QjJ5eUFTWWk4L1kzcE5lRGdpYlIzTzlDRGF5NXJlTm5yeHhxaGVITXI1ZENzU2hUaHJycUZhZFdZVDNkZEEzOXhOaFZzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=)
 
  ### Final Output(combined with factory class) 
 UStreetMap Object: A structured data object containing:
